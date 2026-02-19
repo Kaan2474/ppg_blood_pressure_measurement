@@ -4,7 +4,7 @@ import numpy as np
 
 def load_data(path):
     """
-    Loads MIMIC data record and additional information
+    Loads MIMIC data records and additional information
 
     Args:
         path: Location of the data
@@ -14,16 +14,16 @@ def load_data(path):
         signal_names: The header information of the signals (e.g., PLETH, ABP)
         sampling_frequency: The sampling frequency of the data record (125 Hz for MIMIC data)
     """
-    record = wfdb.rdrecord(path)
-    signals = record.p_signal
-    signal_names = record.sig_name
-    sampling_frequency = record.fs
+    records = wfdb.rdrecord(path)
+    signals = records.p_signal
+    signal_names = records.sig_name
+    sampling_frequency = records.fs
     return signals, signal_names, sampling_frequency
 
 
 def extract_signals(signal_names, signals):
     """
-    Extracts PPG and ABP signals from the data based on the determined indices
+    Extracts PPG and ABP signals from the MIMIC data based on the determined indices
 
     Args:
         signal_names: The header information of the signals (e.g., PLETH, ABP)
