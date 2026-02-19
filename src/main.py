@@ -6,8 +6,8 @@ from visualization import create_scatter_plot, create_histogram, visualize_signa
 
 
 # --- 1. Dataset preparation ---
-RECORD_041 = '/Users/kaanhisi/Desktop/Projekte/PPG_based_BPM/data/041/041'
-signals, signal_names, sampling_frequency = load_data(RECORD_041)
+DATA = '' #ADD PATH TO MIMIC DATA
+signals, signal_names, sampling_frequency = load_data(DATA)
 ppg_signals, abp_signals = extract_signals(signal_names, signals)
 valid_ppg_signals = preprocess_ppg_signals(ppg_signals)
 
