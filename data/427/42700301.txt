@@ -1,0 +1,5330 @@
+[15:03:45 25/06/1995]	42700301.txt
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	105	148	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	103	145	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	103	144	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	104	142	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	103	140	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	104	142	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	108
+RESP  [inactive, status = 21e0]
+ABP   	102	138	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	108
+RESP  [inactive, status = 21e0]
+ABP   	102	140	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	118
+RESP  [inactive, status = 21e0]
+ABP   	101	137	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** HR 118 > 110   
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	118
+RESP  [inactive, status = 21e0]
+ABP   	103	138	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** HR 118 > 110   
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	119
+RESP  [inactive, status = 21e0]
+ABP   	101	136	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** HR 119 > 110   
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	119
+RESP  [inactive, status = 21e0]
+ABP   	102	138	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** HR 119 > 110   
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	119
+RESP  [inactive, status = 21e0]
+ABP   	101	136	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** HR 119 > 110   
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	119
+RESP  [inactive, status = 21e0]
+ABP   	101	138	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** HR 119 > 110   
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	103	140	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** HR 120 > 110   
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	119
+RESP  [inactive, status = 21e0]
+ABP   	106	143	85
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	103	139	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	102	139	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	104	138	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	103	137	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	104	138	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	123
+RESP  [inactive, status = 21e0]
+ABP   	104	138	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	104	138	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	109
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	108
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	109
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	163	217	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	127	153	110
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	119	163	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	122	169	104
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	118	165	102
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	119	169	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	112	159	92
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	113	162	89
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	110	157	86
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	108	152	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	DECREASE ECG SIZE 
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	109	150	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	DECREASE ECG SIZE 
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	108	149	86
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	108	149	86
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	114	159	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	114	156	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	126	166	92
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	132	172	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	134	177	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	128	169	101
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	114
+RESP  [inactive, status = 21e0]
+ABP   	123	165	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	115
+RESP  [inactive, status = 21e0]
+ABP   	122	163	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	116
+RESP  [inactive, status = 21e0]
+ABP   	122	161	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	124	166	98
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	127
+RESP  [inactive, status = 21e0]
+ABP   	124	165	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	127
+RESP  [inactive, status = 21e0]
+ABP   	124	167	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	127
+RESP  [inactive, status = 21e0]
+ABP   	124	166	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	127
+RESP  [inactive, status = 21e0]
+ABP   	124	166	98
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	127
+RESP  [inactive, status = 21e0]
+ABP   	124	167	99
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	128
+RESP  [inactive, status = 21e0]
+ABP   	124	169	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	128
+RESP  [inactive, status = 21e0]
+ABP   	124	170	101
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	128
+RESP  [inactive, status = 21e0]
+ABP   	125	170	101
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	128
+RESP  [inactive, status = 21e0]
+ABP   	123	169	101
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	128
+RESP  [inactive, status = 21e0]
+ABP   	126	173	104
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	129
+RESP  [inactive, status = 21e0]
+ABP   	128	177	105
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	129	175	105
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	132	176	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	134	178	113
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	137	176	116
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	138	178	118
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	135	176	118
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	134	174	114
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	132	171	111
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	129	167	106
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	127	166	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	125	162	105
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	123	163	104
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	122	162	101
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	132
+RESP  [inactive, status = 21e0]
+ABP   	121	160	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	118	158	98
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	117	157	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	117	160	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	118	160	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	121	161	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	121	161	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	127	168	98
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	132	171	99
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	135	178	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	127	169	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	124	166	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	122	164	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	121	162	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	122	163	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	121	164	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	135
+RESP  [inactive, status = 21e0]
+ABP   	121	166	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	135
+RESP  [inactive, status = 21e0]
+ABP   	120	165	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	135
+RESP  [inactive, status = 21e0]
+ABP   	119	162	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	136
+RESP  [inactive, status = 21e0]
+ABP   	118	160	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	136
+RESP  [inactive, status = 21e0]
+ABP   	118	161	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	136
+RESP  [inactive, status = 21e0]
+ABP   	116	158	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	136
+RESP  [inactive, status = 21e0]
+ABP   	116	158	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	116	160	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	117	159	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	115	154	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	114	152	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	116	154	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	116	154	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	116	155	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	116	158	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	116	156	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	116	156	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	122	161	99
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	121	158	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	121	158	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	125	162	102
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	124	161	103
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	128	166	104
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	128	167	106
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	136
+RESP  [inactive, status = 21e0]
+ABP   	131	170	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	130	168	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	128	166	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	130	170	108
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	129	167	105
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	127	166	106
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	139
+RESP  [inactive, status = 21e0]
+ABP   	127	168	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	128	169	105
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	139
+RESP  [inactive, status = 21e0]
+ABP   	129	170	106
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	139
+RESP  [inactive, status = 21e0]
+ABP   	133	175	111
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	139
+RESP  [inactive, status = 21e0]
+ABP   	132	173	109
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	139
+RESP  [inactive, status = 21e0]
+ABP   	140	184	112
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	139
+RESP  [inactive, status = 21e0]
+ABP   	140	183	113
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	153	200	124
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	146	193	121
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	150	200	117
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	144	193	121
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	140	187	119
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	138	185	118
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	137	183	116
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	NOISY-CHK ECG LEAD
+INOP	PLETH NON-PULSATIL
+PULSE 	0
+INOP	SpO2 NON-PULSATILE
+HR    	140
+INOP	ABP REDUCE SIZE   
+RESP  [inactive, status = 21e0]
+ABP   	135	180	114
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	137	183	109
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	141
+RESP  [inactive, status = 21e0]
+ABP   	135	181	109
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	142
+RESP  [inactive, status = 21e0]
+ABP   	134	179	109
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	142
+RESP  [inactive, status = 21e0]
+ABP   	135	181	110
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	133	180	108
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	135	181	105
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	133	176	104
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	131	176	104
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	130	174	103
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	144
+RESP  [inactive, status = 21e0]
+ABP   	131	173	103
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	144
+RESP  [inactive, status = 21e0]
+ABP   	128	170	103
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	127	168	103
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	144
+RESP  [inactive, status = 21e0]
+ABP   	126	169	102
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	126	168	101
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	124	166	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	147
+RESP  [inactive, status = 21e0]
+ABP   	124	166	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	147
+RESP  [inactive, status = 21e0]
+ABP   	122	166	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	121	164	98
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	149
+RESP  [inactive, status = 21e0]
+ABP   	120	163	98
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	147
+RESP  [inactive, status = 21e0]
+ABP   	120	165	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	119	164	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	120	164	98
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	120	166	98
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	119	164	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	118	165	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	119	166	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	119	165	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	119	166	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	120	167	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	120	168	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	123	170	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	123	170	99
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	123	170	99
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	124	170	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	123	168	99
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	123	168	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	148
+RESP  [inactive, status = 21e0]
+ABP   	124	169	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	147
+RESP  [inactive, status = 21e0]
+ABP   	123	169	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	147
+RESP  [inactive, status = 21e0]
+ABP   	124	170	102
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	147
+RESP  [inactive, status = 21e0]
+ABP   	127	172	102
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	147
+RESP  [inactive, status = 21e0]
+ABP   	128	175	106
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	129	176	105
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	147
+RESP  [inactive, status = 21e0]
+ABP   	131	178	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	131	180	106
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	132	181	109
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	133	182	108
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	132	181	108
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	132	183	110
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	132	181	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	131	182	109
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	131	181	106
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	146
+RESP  [inactive, status = 21e0]
+ABP   	130	181	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	131	181	106
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	129	180	107
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+INOP	ABP REDUCE SIZE   
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	129	179	105
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	128	178	104
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	128	177	103
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	126	176	103
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	125	174	101
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	125	175	103
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  200 > 150 
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	145
+RESP  [inactive, status = 21e0]
+ABP   	122	171	99
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  200 > 150 
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	144
+RESP  [inactive, status = 21e0]
+ABP   	122	171	100
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  200 > 150 
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	144
+RESP  [inactive, status = 21e0]
+ABP   	120	168	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	144
+RESP  [inactive, status = 21e0]
+ABP   	120	167	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	118	166	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	117	164	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	118	165	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	116	162	92
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	118	164	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	117	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	117	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	117	163	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	116	161	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	143
+RESP  [inactive, status = 21e0]
+ABP   	116	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	142
+RESP  [inactive, status = 21e0]
+ABP   	116	162	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	142
+RESP  [inactive, status = 21e0]
+ABP   	115	161	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	142
+RESP  [inactive, status = 21e0]
+ABP   	116	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	142
+RESP  [inactive, status = 21e0]
+ABP   	116	160	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	141
+RESP  [inactive, status = 21e0]
+ABP   	116	161	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	141
+RESP  [inactive, status = 21e0]
+ABP   	117	163	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	141
+RESP  [inactive, status = 21e0]
+ABP   	116	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	117	163	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	117	163	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	116	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	116	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	140
+RESP  [inactive, status = 21e0]
+ABP   	117	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	139
+RESP  [inactive, status = 21e0]
+ABP   	116	161	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	139
+RESP  [inactive, status = 21e0]
+ABP   	116	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	117	163	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	117	161	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	116	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	118	163	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	116	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	117	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	118	163	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	117	162	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	118	163	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	118	164	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	119	165	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	118	163	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	118	164	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	118	164	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	138
+RESP  [inactive, status = 21e0]
+ABP   	116	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	117	163	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	137
+RESP  [inactive, status = 21e0]
+ABP   	116	163	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	136
+RESP  [inactive, status = 21e0]
+ABP   	116	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	136
+RESP  [inactive, status = 21e0]
+ABP   	117	163	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	135
+RESP  [inactive, status = 21e0]
+ABP   	117	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	135
+RESP  [inactive, status = 21e0]
+ABP   	117	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	135
+RESP  [inactive, status = 21e0]
+ABP   	116	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	116	161	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	117	162	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	117	161	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	117	163	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	118	164	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	118	165	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	119	167	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	120	168	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	119	168	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	120	170	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	134
+RESP  [inactive, status = 21e0]
+ABP   	121	171	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	122	170	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	121	172	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	121	171	97
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	121	171	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	133
+RESP  [inactive, status = 21e0]
+ABP   	121	172	96
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	132
+RESP  [inactive, status = 21e0]
+ABP   	121	170	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	132
+RESP  [inactive, status = 21e0]
+ABP   	120	171	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	132
+RESP  [inactive, status = 21e0]
+ABP   	120	170	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	132
+RESP  [inactive, status = 21e0]
+ABP   	119	169	95
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	119	169	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	119	169	94
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	118	168	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	131
+RESP  [inactive, status = 21e0]
+ABP   	118	168	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	118	168	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	130
+RESP  [inactive, status = 21e0]
+ABP   	118	168	93
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	129
+RESP  [inactive, status = 21e0]
+ABP   	116	167	92
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	129
+RESP  [inactive, status = 21e0]
+ABP   	116	166	91
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	129
+RESP  [inactive, status = 21e0]
+ABP   	116	165	91
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	129
+RESP  [inactive, status = 21e0]
+ABP   	115	164	91
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	128
+RESP  [inactive, status = 21e0]
+ABP   	115	164	90
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	128
+RESP  [inactive, status = 21e0]
+ABP   	115	164	90
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	127
+RESP  [inactive, status = 21e0]
+ABP   	114	163	90
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	126
+RESP  [inactive, status = 21e0]
+ABP   	114	163	90
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	126
+RESP  [inactive, status = 21e0]
+ABP   	115	163	90
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	126
+RESP  [inactive, status = 21e0]
+ABP   	115	163	91
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	125
+RESP  [inactive, status = 21e0]
+ABP   	114	163	90
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	125
+RESP  [inactive, status = 21e0]
+ABP   	115	163	90
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	125
+RESP  [inactive, status = 21e0]
+ABP   	115	163	90
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	125
+RESP  [inactive, status = 21e0]
+ABP   	114	162	89
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	125
+RESP  [inactive, status = 21e0]
+ABP   	114	162	89
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	124
+RESP  [inactive, status = 21e0]
+ABP   	114	162	89
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	124
+RESP  [inactive, status = 21e0]
+ABP   	114	161	89
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	124
+RESP  [inactive, status = 21e0]
+ABP   	113	161	89
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	0
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	124
+RESP  [inactive, status = 21e0]
+ABP   	113	161	89
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+INOP	PLETH NON-PULSATIL
+INOP	SpO2 NON-PULSATILE
+PULSE 	0
+HR    	124
+RESP  [inactive, status = 21e0]
+ABP   	113	162	89
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+INOP	PLETH NON-PULSATIL
+PULSE 	123
+HR    	124
+RESP  [inactive, status = 21e0]
+ABP   	112	161	88
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	122
+HR    	123
+RESP  [inactive, status = 21e0]
+ABP   	112	161	88
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	122
+HR    	123
+RESP  [inactive, status = 21e0]
+ABP   	112	161	88
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	123
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	123
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	122
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	122
+RESP  [inactive, status = 21e0]
+ABP   	111	159	86
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	80
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	159	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	159	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	111	160	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	121
+HR    	122
+RESP  [inactive, status = 21e0]
+ABP   	110	159	85
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	121
+HR    	122
+RESP  [inactive, status = 21e0]
+ABP   	109	158	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	121
+HR    	122
+RESP  [inactive, status = 21e0]
+ABP   	108	156	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	121
+HR    	122
+RESP  [inactive, status = 21e0]
+ABP   	108	156	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	121
+HR    	121
+RESP  [inactive, status = 21e0]
+ABP   	108	157	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	113
+HR    	120
+RESP  [inactive, status = 21e0]
+ABP   	108	156	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	112
+HR    	119
+RESP  [inactive, status = 21e0]
+ABP   	107	156	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	111
+HR    	119
+RESP  [inactive, status = 21e0]
+ABP   	107	156	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	81
+PULSE 	111
+HR    	119
+RESP  [inactive, status = 21e0]
+ABP   	107	157	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	82
+PULSE 	111
+HR    	118
+RESP  [inactive, status = 21e0]
+ABP   	106	156	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	82
+PULSE 	116
+HR    	118
+RESP  [inactive, status = 21e0]
+ABP   	105	155	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	83
+PULSE 	116
+HR    	118
+RESP  [inactive, status = 21e0]
+ABP   	105	155	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	83
+PULSE 	115
+HR    	118
+RESP  [inactive, status = 21e0]
+ABP   	106	155	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	84
+PULSE 	115
+HR    	117
+RESP  [inactive, status = 21e0]
+ABP   	105	155	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	84
+PULSE 	115
+HR    	117
+RESP  [inactive, status = 21e0]
+ABP   	105	155	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	85
+PULSE 	115
+HR    	116
+RESP  [inactive, status = 21e0]
+ABP   	104	154	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	85
+PULSE 	114
+HR    	116
+RESP  [inactive, status = 21e0]
+ABP   	104	153	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	86
+PULSE 	113
+HR    	116
+RESP  [inactive, status = 21e0]
+ABP   	104	154	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	87
+PULSE 	113
+HR    	115
+RESP  [inactive, status = 21e0]
+ABP   	104	154	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	87
+PULSE 	112
+HR    	115
+RESP  [inactive, status = 21e0]
+ABP   	103	153	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	87
+PULSE 	112
+HR    	114
+RESP  [inactive, status = 21e0]
+ABP   	103	153	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	88
+PULSE 	112
+HR    	114
+RESP  [inactive, status = 21e0]
+ABP   	103	153	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	88
+PULSE 	112
+HR    	113
+RESP  [inactive, status = 21e0]
+ABP   	103	152	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	111
+HR    	113
+RESP  [inactive, status = 21e0]
+ABP   	103	152	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	111
+HR    	112
+RESP  [inactive, status = 21e0]
+ABP   	103	152	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	111
+HR    	112
+RESP  [inactive, status = 21e0]
+ABP   	102	152	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	111
+HR    	112
+RESP  [inactive, status = 21e0]
+ABP   	102	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	111
+HR    	112
+RESP  [inactive, status = 21e0]
+ABP   	102	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	111
+HR    	112
+RESP  [inactive, status = 21e0]
+ABP   	102	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	110
+HR    	112
+RESP  [inactive, status = 21e0]
+ABP   	102	150	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	110
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	102	150	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	110
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	102	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	102	151	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	102	151	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	102	151	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	103	151	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	103	152	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	103	152	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	104	153	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	105	154	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	105	155	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	111
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	105	155	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	110
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	105	156	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	110
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	105	156	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	110
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	106	156	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	110
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	105	156	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	110
+HR    	111
+RESP  [inactive, status = 21e0]
+ABP   	106	157	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	109
+HR    	110
+RESP  [inactive, status = 21e0]
+ABP   	105	157	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	109
+HR    	110
+RESP  [inactive, status = 21e0]
+ABP   	105	157	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	109
+HR    	110
+RESP  [inactive, status = 21e0]
+ABP   	105	156	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	108
+HR    	110
+RESP  [inactive, status = 21e0]
+ABP   	105	156	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	107
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	105	156	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	107
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	105	156	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	107
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	104	156	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	107
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	105	156	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	106
+HR    	108
+RESP  [inactive, status = 21e0]
+ABP   	105	156	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	106
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	104	156	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	106
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	104	156	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	106
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	103	155	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	103	155	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	103	154	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	102	153	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	104
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	102	153	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	103
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	102	153	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	101	152	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	101	152	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	101	152	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	101	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	101	151	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	101	151	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  157 > 150 
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	100	151	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  157 > 150 
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  157 > 150 
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	101	151	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	101	151	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	101	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	101	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	0
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	100	150	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	102	151	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	103	151	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	108	155	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	111	158	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	117	164	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	114	160	88
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	110	156	86
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	112	157	88
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	111	156	87
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	109	155	86
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  164 > 150 
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	107	154	85
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  164 > 150 
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	106	153	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  164 > 150 
+SpO2  	96
+PULSE 	101
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	105	153	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  164 > 150 
+SpO2  	95
+PULSE 	95
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	104	152	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  164 > 150 
+SpO2  	95
+PULSE 	93
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	104	152	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  164 > 150 
+SpO2  	95
+PULSE 	93
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	104	153	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+ALARM	** ABP  164 > 150 
+SpO2  	95
+PULSE 	94
+HR    	108
+RESP  [inactive, status = 21e0]
+ABP   	104	153	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	108
+RESP  [inactive, status = 21e0]
+ABP   	104	153	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	109
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	107	157	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	109
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	106	156	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	109
+HR    	110
+RESP  [inactive, status = 21e0]
+ABP   	107	155	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	108
+HR    	110
+RESP  [inactive, status = 21e0]
+ABP   	108	157	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	108
+HR    	110
+RESP  [inactive, status = 21e0]
+ABP   	107	156	84
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	108
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	105	153	83
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	107
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	105	153	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	107
+HR    	109
+RESP  [inactive, status = 21e0]
+ABP   	104	153	82
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	107
+HR    	108
+RESP  [inactive, status = 21e0]
+ABP   	104	153	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	107
+HR    	108
+RESP  [inactive, status = 21e0]
+ABP   	104	153	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	106
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	103	152	81
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	106
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	102	151	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	106
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	101	150	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	104
+HR    	107
+RESP  [inactive, status = 21e0]
+ABP   	101	150	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	103
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	101	150	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	103
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	100	149	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	103
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	100	149	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	103
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	100	149	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	103
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	100	148	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	103
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	99	148	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	102
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	99	147	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	101
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	99	147	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	101
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	99	147	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	101
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	98	146	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	98	146	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	98	146	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	98	146	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	98	146	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	101
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	98	146	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	98	145	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	97	144	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	97	144	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	97	144	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	97	144	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	97	143	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	97	143	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	96	143	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	109
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	96	142	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	109
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	96	143	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	108
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	96	142	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	108
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	108
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	96	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	95	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	100	143	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	102	149	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	105	151	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	102	147	80
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	101	145	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	99	144	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	98	143	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	97	143	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	97	144	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	97	144	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	97	145	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	97	145	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	99
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	98	146	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	101
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	98	146	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	102
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	98	147	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	95
+PULSE 	104
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	98	147	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	98	148	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	98	148	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	99	149	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	104
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	99	149	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	104
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	99	148	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	104
+HR    	106
+RESP  [inactive, status = 21e0]
+ABP   	99	147	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	103
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	98	146	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	103
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	98	146	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	103
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	98	145	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	103
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	98	145	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	103
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	98	145	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	102
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	97	144	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	102
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	97	144	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	102
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	96	143	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	101
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	96	143	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	100
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	95	142	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	99
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	94	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	98
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	94	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	97
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	97
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	97
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	97
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	94	141	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	97
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	94	141	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	97
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	94	141	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	97
+HR    	97
+RESP  [inactive, status = 21e0]
+ABP   	93	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	97
+HR    	97
+RESP  [inactive, status = 21e0]
+ABP   	93	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	97
+HR    	97
+RESP  [inactive, status = 21e0]
+ABP   	93	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	97
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	96
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	96
+HR    	97
+RESP  [inactive, status = 21e0]
+ABP   	96	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	98
+HR    	97
+RESP  [inactive, status = 21e0]
+ABP   	96	142	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	99
+HR    	97
+RESP  [inactive, status = 21e0]
+ABP   	98	144	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	100
+HR    	97
+RESP  [inactive, status = 21e0]
+ABP   	99	145	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	102
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	100	147	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	104
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	101	148	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	104
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	101	150	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	101	151	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	103
+RESP  [inactive, status = 21e0]
+ABP   	101	151	79
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	105
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	101	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	104
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	101	151	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	104
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	100	150	78
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	94
+PULSE 	103
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	99	149	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	102
+HR    	105
+RESP  [inactive, status = 21e0]
+ABP   	98	148	77
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	101
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	98	147	76
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	101
+HR    	104
+RESP  [inactive, status = 21e0]
+ABP   	97	146	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	100
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	97	146	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	100
+HR    	102
+RESP  [inactive, status = 21e0]
+ABP   	96	145	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	96	144	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	96	144	75
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	93
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	95	143	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	95	142	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	95	142	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	92
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	95	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	141	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	98
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	98
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	93	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	91
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	94	140	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	94	139	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	93	139	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	93	138	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	93	138	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	92	138	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	92	138	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	92	138	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	92	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	93	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	93	138	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	99
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	94	139	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	94	138	74
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	94	138	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	92	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	93	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	90
+PULSE 	100
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	93	137	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	137	73
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	92	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	137	71
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	100
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	138	71
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	99
+HR    	101
+RESP  [inactive, status = 21e0]
+ABP   	93	137	71
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	99
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	100
+RESP  [inactive, status = 21e0]
+ABP   	93	137	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	92	137	71
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	92	136	71
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	92	136	71
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	97
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	99
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	92	136	72
+PAP   [inactive, status = 31a0]
+ART   [inactive, status = 41e0]
+P4    [inactive, status = 71a0]
+SpO2  	89
+PULSE 	98
+HR    	98
+RESP  [inactive, status = 21e0]
+ABP   	91	135	72

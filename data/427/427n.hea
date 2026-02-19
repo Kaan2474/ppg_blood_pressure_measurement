@@ -1,0 +1,17 @@
+427n 16 0.9765625 205664 13:02:51 23/06/1995
+427n.dat 16 1/mmHg 16 0 84 9606 0 ABPmean
+427n.dat 16 1/mmHg 16 0 103 27081 0 ABPsys
+427n.dat 16 1/mmHg 16 0 66 32261 0 ABPdias
+427n.dat 16 1/mmHg 16 0 89 3647 0 ARTmean
+427n.dat 16 1/mmHg 16 0 110 -4814 0 ARTsys
+427n.dat 16 1/mmHg 16 0 76 27103 0 ARTdias
+427n.dat 16 1/bpm 16 0 63 -27577 0 HR
+427n.dat 16 1/mmHg 16 0 90 12086 0 P4mean
+427n.dat 16 1/mmHg 16 0 113 10355 0 P4sys
+427n.dat 16 1/mmHg 16 0 58 -13563 0 P4dias
+427n.dat 16 1/mmHg 16 0 39 -10561 0 PAPmean
+427n.dat 16 1/mmHg 16 0 55 -6191 0 PAPsys
+427n.dat 16 1/mmHg 16 0 32 2827 0 PAPdias
+427n.dat 16 1/bpm 16 0 0 32400 0 PULSE
+427n.dat 16 1/bpm 16 0 17 -3347 0 RESP
+427n.dat 16 1/% 16 0 0 10382 0 SpO2
