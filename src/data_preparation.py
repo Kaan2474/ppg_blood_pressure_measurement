@@ -12,7 +12,7 @@ def load_data(path):
     Returns:
         signals: All available signals (e.g., PPG, ABP, ...)
         signal_names: The header information of the signals (e.g., PLETH, ABP)
-        sampling_frequency: The sampling frequency of the data record (125 Hz for MIMIC data)
+        sampling_frequency: The sampling frequency of the data records (125 Hz for MIMIC data)
     """
     records = wfdb.rdrecord(path)
     signals = records.p_signal

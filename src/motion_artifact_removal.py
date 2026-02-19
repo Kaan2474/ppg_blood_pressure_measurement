@@ -1,17 +1,17 @@
 from scipy.signal import butter, filtfilt, correlate
 import numpy as np
 
-def butterworth_lowpass_filter(ppg_signals, cutoff, sampling_frequency, order):
+def butterworth_lowpass_filter(sampling_frequency, cutoff, order, ppg_signals):
     """
     Applies a Butterworth lowpass filter:
         - All frequencies above the cutoff are removed
         - All frequencies below the cutoff are kept
 
     Args:
-        ppg_signals: The PPG signals that need to be filtered
+        sampling_frequency: The sampling frequency of the data records (125 Hz for MIMIC data)
         cutoff: The specified cutoff frequency
-        sampling_frequency: The sampling frequency of the data record (125 Hz for MIMIC data)
         order: The order of the Butterworth low-pass filter
+        ppg_signals: The PPG signals that need to be filtered
 
     Returns:
         lowpass_filtered_ppg_signals: The filtered PPG signals
@@ -28,16 +28,10 @@ def butterworth_lowpass_filter(ppg_signals, cutoff, sampling_frequency, order):
 def sqa_autocorrelation(ppg_window, sampling_frequency):
     """
     Implements the Autocorrelation-based SQA method based on Leitner et al. (2022)
-    
-    Logic:
-    - Clean PPG signals are highly periodic.
-    - We calculate the autocorrelation function (ACF).
-    - If the maximum peak of the ACF (at the heart rate lag) is < 0.7, 
-      the signal is considered 'corrupted' by motion artifacts.
       
     Args:
-        window_data: 5-second PPG segment
-        sampling_frequency: Sampling frequency (default 125Hz)
+        ppg_window: 5-second PPG segment
+        sampling_frequency: Sampling frequency of the PPG signals
     
     Returns:
         True if valid (Max Autocorrelation >= 0.7), False otherwise.
