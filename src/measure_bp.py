@@ -7,8 +7,8 @@ from motion_artifact_removal import butterworth_lowpass_filter, sqa_autocorrelat
 from feature_extraction import extract_features
 
 
-INPUT_FILE = "aligned_signals_walking_1.csv"
-OUTPUT_FILE = "blood_pressure_results_walking_sqa_1.csv"
+INPUT_FILE = "aligned_data.csv"
+OUTPUT_FILE = "blood_pressure_predictions.csv"
 POLAR_SAMPLING_RATE = 176.0
 MIMIC_SAMPLING_RATE = 125.0 # Expected from the ANN model
 WINDOW_SIZE = int(5 * MIMIC_SAMPLING_RATE) # 625 samples

@@ -6,11 +6,11 @@ import struct
 from bleak import BleakScanner, BleakClient
 from bleakheart import PolarMeasurementData
 
-INPUT_FILE = "signals_walking_2.csv"
+OUTPUT_FILE = "collected_data.csv"
 
 
 # Writes the headers into the CSV file
-with open(INPUT_FILE, "w", newline='') as f:
+with open(OUTPUT_FILE, "w", newline='') as f:
     writer = csv.writer(f)
     writer.writerow(["Computer Timestamp", "Polar Timestamp", "Type", 
                      "Val0", "Val1", "Val2", "Val3"])
@@ -29,7 +29,7 @@ def save_to_csv(polar_timestamp, data_type, samples):
     """
     computer_timestamp = time.time_ns()
 
-    with open(INPUT_FILE, "a", newline='') as f:
+    with open(OUTPUT_FILE, "a", newline='') as f:
         writer = csv.writer(f)
         for sample in samples:
             row = [computer_timestamp, polar_timestamp, data_type] + list(sample)

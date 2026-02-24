@@ -39,15 +39,13 @@ sbp_errors = []
 dbp_errors = []
 
 # Analyze the file you uploaded
-file_1 = "blood_pressure_results_walking_sqa_1.csv"
-err_s, err_d = evaluate_single_session(file_1, 127, 67)
+INPUT_FILE = "blood_pressure_results_walking_sqa_1.csv"
+reference_sbp = 0 # Add reference systolic blood pressure
+reference_dbp = 0 # Add reference diastolic blood pressure
+err_s, err_d = evaluate_single_session(INPUT_FILE, reference_sbp, reference_dbp)
 sbp_errors.append(err_s)
 dbp_errors.append(err_d)
 
-file_2 = "blood_pressure_results_walking_sqa_2.csv"
-err_s, err_d = evaluate_single_session(file_2, 128, 60)
-sbp_errors.append(err_s)
-dbp_errors.append(err_d)
 
 # 3. Calculate Final MAE and SD
 mae_sbp = np.mean(np.abs(sbp_errors))

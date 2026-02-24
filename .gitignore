@@ -1,0 +1,6 @@
+# Directories
+__pycache__/
+data/
+
+# OS related files
+.DS_Store

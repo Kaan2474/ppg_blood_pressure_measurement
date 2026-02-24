@@ -2,8 +2,8 @@ import pandas as pd
 from scipy.interpolate import interp1d
 import matplotlib.pyplot as plt
 
-INPUT_FILE = "signals_walking_2.csv"
-OUTPUT_FILE = "aligned_signals_walking_2.csv"
+INPUT_FILE = "collected_data.csv"
+OUTPUT_FILE = "aligned_data.csv"
 
 
 def distribute_timestamps(signal, sampling_rate):

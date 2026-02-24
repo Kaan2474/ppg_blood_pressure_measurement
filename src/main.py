@@ -6,7 +6,7 @@ from visualization import create_scatter_plot, create_histogram, visualize_signa
 
 
 # --- 1. Dataset preparation ---
-DATA = '' #ADD PATH TO MIMIC DATA
+DATA = '' #Add path to MIMIC data directory
 signals, signal_names, sampling_frequency = load_data(DATA)
 ppg_signals, abp_signals = extract_signals(signal_names, signals)
 valid_ppg_signals = preprocess_ppg_signals(ppg_signals)
