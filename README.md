@@ -34,7 +34,7 @@ visualization.py | Creates scatter plots, histograms, and signal visualizations
 ## Installation & Usage
 
 **Prerequisites**
-- Python 3.8+
+- Python version 3.11.10
 - Polar Verity Sense (for data streaming)
 - Dependencies: numpy, pandas, scipy, scikit-learn, matplotlib, bleak, bleakheart, joblib, wfdb
 
@@ -48,13 +48,17 @@ python3 -m pip install "bleakheart"
 
 **Quick Start**
 1. **Load Data**: Download data records from the MIMIC database and store the data in a separate directory
-2. **Data Path**: Add the path to the MIMIC data directory within src/main.py (line 9)
+2. **Data Path**: Add the path that leads to the MIMIC data within src/main.py (line 9)
 3. **Model Training**: Run src/main.py to train the ANN model or skip this step and use the already existing models/ann_bp_model.pkl 
 4. **Data Collection**: Run src/signal_acquisition.py while wearing the turned on Polar Verity Sense on the arm to record PPG/ACC data to a CSV
 5. **Signal Alignment**: Run src/aligning_signals.py to synchronize PPG and ACC signals
 6. **Blood Pressure Estimation**: Run src/measure_bp.py to predict systolic and diastolic blood pressure from the collected data
-7. **Reference Values**: Measure reference blood pressure values using a cuff and add these values within src/bp_evaluation.py (line 43 and 44)
-8. **Evaluation**: Run src/bp_evaluation.py to compare your results against the reference values
+7. **Reference Values**: Measure reference blood pressure values using a cuff and add these values within src/bp_evaluation.py (line 41 and 42)
+8. **Evaluation**: Run src/bp_evaluation.py to compare your blood pressure predictions against the reference values
 
+## References
+- MIMIC database: https://archive.physionet.org/physiobank/database/mimicdb/
+- Wang, L., Zhou, W., Xing, Y., & Zhou, X. (2018). A novel neural network model for blood pressure estimation using PPG. Journal of Healthcare Engineering. https://doi.org/10.1155/2018/7804243
+- Leitner, J., Chiang, P. H., & Dey, S. (2022). Personalized blood pressure estimation using photoplethysmography: A transfer learning approach. IEEE Journal of Biomedical and Health Informatics, 26(1), 218–228. https://doi.org/10.1109/JBHI.2021.3085526
 
 **Disclaimer**: This software is for research purposes only and is not a certified medical device.
