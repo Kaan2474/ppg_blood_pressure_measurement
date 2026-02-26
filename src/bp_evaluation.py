@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+
 def evaluate_single_session(csv_file, cuff_sbp, cuff_dbp, skip_seconds=0):
     """
     Calculates the error for a single recording session.
@@ -8,8 +9,7 @@ def evaluate_single_session(csv_file, cuff_sbp, cuff_dbp, skip_seconds=0):
     # 1. Load the data
     df = pd.read_csv(csv_file)
     
-    # 2. Filter out the "Warm-up" period (first 10 seconds)
-    # The first few seconds often contain unstable predictions as the filter settles
+    # 2. Filter out the "Warm-up" period by changing skip_seconds parameter
     df_stable = df[df['Time in sec'] > skip_seconds]
     
     if len(df_stable) == 0:
@@ -33,21 +33,20 @@ def evaluate_single_session(csv_file, cuff_sbp, cuff_dbp, skip_seconds=0):
 
 # --- MAIN EVALUATION ---
 
-# 2. Run evaluation for the current file
-# We store the errors in a list. If you have multiple files, add them here.
 sbp_errors = []
 dbp_errors = []
 
 # Analyze the file you uploaded
-INPUT_FILE = "blood_pressure_results_walking_sqa_1.csv"
+INPUT_FILE = "blood_pressure_predictions.csv"
 reference_sbp = 0 # Add reference systolic blood pressure
 reference_dbp = 0 # Add reference diastolic blood pressure
 err_s, err_d = evaluate_single_session(INPUT_FILE, reference_sbp, reference_dbp)
 sbp_errors.append(err_s)
 dbp_errors.append(err_d)
 
+# Note: If multiple files were recorded, copy line 40 - line 45 and change INPUT_FILE, reference_sbp, and reference_dbp accordingly
 
-# 3. Calculate Final MAE and SD
+# Calculate Final MAE and SD
 mae_sbp = np.mean(np.abs(sbp_errors))
 sd_sbp = np.std(sbp_errors, ddof=1) if len(sbp_errors) > 1 else 0.0
 

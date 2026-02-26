@@ -1,6 +1,6 @@
-import pandas as pd
 from scipy.interpolate import interp1d
-import matplotlib.pyplot as plt
+import pandas as pd
+
 
 INPUT_FILE = "collected_data.csv"
 OUTPUT_FILE = "aligned_data.csv"
@@ -32,6 +32,7 @@ def distribute_timestamps(signal, sampling_rate):
     # Apply correction
     signal['Corrected_Time_ns'] = signal['Polar Timestamp'] - (samples_from_end * time_step_ns)
     return signal
+
 
 # Loads the PPG and ACC data from the CSV file into a dataframe
 print("Loading data...")
@@ -87,19 +88,3 @@ final_df = pd.DataFrame({
 # 6. Save aligned data to CSV file
 final_df.to_csv(OUTPUT_FILE, index=False)
 print(f"Success! Full aligned data saved to {OUTPUT_FILE}")
-print(final_df.head())
-
-# 7. Visualization: Plot PPG0 vs Ambient
-plt.figure(figsize=(10, 6))
-plt.subplot(2,1,1)
-plt.plot(final_df['Time_sec'], final_df['PPG_0'], color='green', label='PPG_0')
-plt.title("PPG Channel 0")
-plt.legend()
-
-plt.subplot(2,1,2)
-plt.plot(final_df['Time_sec'], final_df['ACC_Z'], color='orange', label='Acc Z (Aligned)')
-plt.title("Aligned Accelerometer Z")
-plt.legend()
-
-plt.tight_layout()
-plt.show()

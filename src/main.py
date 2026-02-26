@@ -5,14 +5,14 @@ from ann_model import scale_data, split_data, create_ann_model, evaluate_ann_mod
 from visualization import create_scatter_plot, create_histogram, visualize_signals
 
 
-# --- 1. Dataset preparation ---
-DATA = '' #Add path to MIMIC data directory
-signals, signal_names, sampling_frequency = load_data(DATA)
-ppg_signals, abp_signals = extract_signals(signal_names, signals)
+# --- 1. Data preparation ---
+DATA_PATH = '' # Add path to MIMIC data directory
+signals, signal_names, sampling_frequency = load_data(DATA_PATH)
+ppg_signals, abp_signals = extract_signals(signals, signal_names)
 valid_ppg_signals = preprocess_ppg_signals(ppg_signals)
 
 # --- 2. Motion artifact removal using low-pass filter ---
-lowpass_filtered_ppg_signals = butterworth_lowpass_filter(valid_ppg_signals, 12, sampling_frequency, 4)
+lowpass_filtered_ppg_signals = butterworth_lowpass_filter(valid_ppg_signals, sampling_frequency)
 
 # --- 3. Feature extraction ---
 X_train, Y_train = start_feature_extraction(lowpass_filtered_ppg_signals, abp_signals, sampling_frequency)

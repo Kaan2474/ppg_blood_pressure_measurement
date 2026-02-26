@@ -1,13 +1,14 @@
-from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
+from sklearn.neural_network import MLPRegressor
+import joblib
 from sklearn.metrics import mean_absolute_error
 import numpy as np
-import joblib
+
 
 def scale_data(X_train):
     """
-    Standardizes the differences of the units in morphological (seconds) and spectral features (units of power)
+    Standardizes differences of the units in morphological (seconds) and spectral features (units of power)
 
     Args:
         X_train: The morphological and spectral features that need to standardized
@@ -23,7 +24,7 @@ def scale_data(X_train):
 
 def split_data(X_scaled, Y_train):
     """
-    Split data for training (85%) and testing (15%)
+    Splits data for training (85%) and testing (15%) based on Wang et al. (2018)
 
     Args:
         X_scaled: The scaled feature set
@@ -46,9 +47,9 @@ def create_ann_model():
     Creates the Feed-Forward ANN model (Multilayer Perceptron) based on Wang et al. (2018)
 
     Returns:
-        model: The ANN model
+        model: The ANN model (Multilayer Perceptron)
     """
-    model = MLPRegressor( # Multilayer Perceptron
+    model = MLPRegressor(
     hidden_layer_sizes=(10,),
     activation='tanh',
     solver='lbfgs', # solver='lbfgs' is similar to Levenberg-Marquardt
@@ -60,21 +61,21 @@ def create_ann_model():
 
 def save_model(model, scaler):
     """
-    Saves the ANN model and the scaler object
+    Saves the ANN model and the corresponding scaler object
 
     Args:
         model: The ANN model
         scaler: The object that standardizes the morphological and spectral features
     """
-    joblib.dump(model, 'ann_bp_model.pkl')
-    joblib.dump(scaler, 'scaler.pkl')
+    joblib.dump(model, 'models/ann_bp_model.pkl')
+    joblib.dump(scaler, 'models/scaler.pkl')
 
 
 def evaluate_ann_model(model, X_test, Y_test):
     """
     Evaluates the ANN model according to the AAMI standard:
-        - Calculates mean absolute error (MAE)
-        - Calculates standard deviation (SD)
+        - Calculates Mean Absolute Error (MAE)
+        - Calculates Standard Deviation (SD)
 
     Args:
         model: The ANN model
@@ -83,15 +84,17 @@ def evaluate_ann_model(model, X_test, Y_test):
 
     Returns:
         Y_pred: The predicted blood pressure values
-        mae_sbp: The mean absolute error of systolic blood pressure
-        mae_dbp: The mean absolute error of diastolic blood pressure
-        sd_sbp: The standard deviation of systolic blood pressure
-        sd_dbp: The standard deviation of diastolic blood pressure
+        mae_sbp: MAE of systolic blood pressure
+        mae_dbp: MAE of diastolic blood pressure
+        sd_sbp: SD of systolic blood pressure
+        sd_dbp: SD of diastolic blood pressure
     """
     Y_pred = model.predict(X_test)
+
     # Calculate MAE
     mae_sbp = mean_absolute_error(Y_test[:, 0], Y_pred[:, 0])
     mae_dbp = mean_absolute_error(Y_test[:, 1], Y_pred[:, 1])
+    
     # Calculate SD
     sd_sbp = np.std(np.abs(Y_test[:, 0] - Y_pred[:, 0]))
     sd_dbp = np.std(np.abs(Y_test[:, 1] - Y_pred[:, 1]))

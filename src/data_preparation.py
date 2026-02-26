@@ -7,7 +7,7 @@ def load_data(path):
     Loads MIMIC data records and additional information
 
     Args:
-        path: Location of the data
+        path: Directory path of the data
 
     Returns:
         signals: All available signals (e.g., PPG, ABP, ...)
@@ -21,13 +21,13 @@ def load_data(path):
     return signals, signal_names, sampling_frequency
 
 
-def extract_signals(signal_names, signals):
+def extract_signals(signals, signal_names):
     """
     Extracts PPG and ABP signals from the MIMIC data based on the determined indices
 
     Args:
-        signal_names: The header information of the signals (e.g., PLETH, ABP)
         signals: All available signals (e.g., PPG, ABP, ...)
+        signal_names: The header information of the signals (e.g., PLETH, ABP)
 
     Returns:
         ppg_signals: Raw PPG signals

@@ -10,14 +10,13 @@ def extract_features(ppg_window, sampling_frequency):
         2. 20 spectral features: power in 0.5 Hz chunks from 0 - 10 Hz
     
     Args:
-        ppg_window: The 5-second PPG segment
-        sampling_frequency: The sampling frequency of the data record (125 Hz for MIMIC data)
+        ppg_window: A 5-second PPG segment
+        sampling_frequency: The sampling frequency of the PPG signals
 
     Returns:
         features: All 22 features combined
     """
-    
-    # 1. Morphological features
+    # --- 1. Morphological features ---
 
     systolic_peaks, _ = find_peaks(ppg_window, height=0, distance=sampling_frequency/2.5)
     diastolic_peaks, _ = find_peaks(-ppg_window, distance=sampling_frequency/2.5)
@@ -51,22 +50,18 @@ def extract_features(ppg_window, sampling_frequency):
     else:
         return np.zeros(22) # Return empty feature vector if detection fails
 
-    # 2. Spectral features
+    # --- 2. Spectral features ---
     
     # Converts the PPG window from time domain to frequency domain
     f, Pxx = periodogram(ppg_window, sampling_frequency, scaling='spectrum')
     
     spectral_features = []
     
-    # Slices the signal into 0.5 Hz chunks
-    # Iteration 1: 0.0 - 0.5 Hz
-    # Iteration 2: 0.5 - 1.0 Hz
-    # ...
-    # Iteration 20: 9.5 - 10.0 Hz
+    # Slices the signal into 0.5 Hz chunks: Iteration 1: 0.0 - 0.5 Hz -> Iteration 2: 0.5 - 1.0 Hz -> ... -> Iteration 20: 9.5 - 10.0 Hz
     for i in range(20):
         low_freq = i * 0.5
         high_freq = (i + 1) * 0.5
-        band_power = np.sum(Pxx[(f >= low_freq) & (f < high_freq)]) # Calculates the total power of every frequency chunk (e.g., 0.5 - 1.0 Hz)
+        band_power = np.sum(Pxx[(f >= low_freq) & (f < high_freq)]) # Calculates the total power of every frequency chunk
         spectral_features.append(band_power)
         
     # Combines the 2 morphological features and the 20 spectral features
@@ -79,37 +74,39 @@ def start_feature_extraction(ppg_signals, abp_signals, sampling_frequency):
     Starts the feature extraction process:
         1. Segments PPG and corresponding ABP signals into 5-second windows
         2. Derives systolic and diastolic blood pressure values from ABP windows
-        3. Applies an SQA method based on Leitner et. al (2022) to remove motion artifacts from the PPG signals
-        4. Extracts features from PPG window and maps them to corresponding blood pressure values
+        3. Applies an SQA method based on autocorrelation filtering to remove motion artifacts from PPG signals
+        4. Extracts features from PPG windows and maps them to corresponding blood pressure values
     
     Args:
         ppg_signals: PPG signals that will be segmented into windows and used for feature extraction
         abp_signals: ABP signals that will be segmented into windows and used for blood pressure extraction
-        sampling_frequency: The sampling frequency of the data record (125 Hz for MIMIC data)
+        sampling_frequency: The sampling frequency of the data records (125 Hz for MIMIC data)
 
     Returns:
-        X_train: All 22 extracted features for each PPG window
+        X_train: All 22 extracted features from each PPG window
         Y_train: All corresponding blood pressure values for each ABP window
     """
 
     X_train = []
     Y_train = []
 
-    WINDOW_SIZE = sampling_frequency * 5 # 125 * 5 = 625
+    WINDOW_SIZE = sampling_frequency * 5
     for i in range(0, len(ppg_signals) - WINDOW_SIZE, WINDOW_SIZE):
 
         # 1. Segmentation
         ppg_window = ppg_signals[i : i+WINDOW_SIZE]
         abp_window = abp_signals[i : i+WINDOW_SIZE]
 
-        # 2. Derivation of blood pressure
+        # 2. Derivation of systolic and diastolic blood pressure from ABP windows
         systolic_bp = np.max(abp_window)
         diastolic_bp = np.min(abp_window)
 
-        # 3. SQA method
+        # 3. Application of autocorrelation-based SQA method
         if sqa_autocorrelation(ppg_window, sampling_frequency):
-            # 4. Actual feature and corresponding blood pressure extraction
+
+            # 4. Feature extraction
             features = extract_features(ppg_window, sampling_frequency)
+
             X_train.append(features)
             Y_train.append([systolic_bp, diastolic_bp])
     

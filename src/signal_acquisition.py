@@ -1,10 +1,11 @@
-import sys
-import asyncio
 import csv
 import time
 import struct
+import sys
 from bleak import BleakScanner, BleakClient
+import asyncio
 from bleakheart import PolarMeasurementData
+
 
 OUTPUT_FILE = "collected_data.csv"
 
@@ -17,7 +18,6 @@ with open(OUTPUT_FILE, "w", newline='') as f:
 
 
 # --- HELPER FUNCTIONS ---
-
 def save_to_csv(polar_timestamp, data_type, samples):
     """
     Stores PPG and ACC data into a single CSV file
@@ -52,11 +52,10 @@ def decode_polar_acc(raw_acc_signals):
     if len(raw_acc_signals) < 20: return [] # Valid ACC signals contain at least 20 bytes.
     
     '''
-    - Raw data for the actual accelerometer readings starts at Byte 10.
-    - unpack_from reads binary data
-    - Starting X, Y, and Z values (e.g., 1000, -50, 980)
+    - x_ref, y_ref, z_ref = Starting X, Y, and Z values (e.g., 1000, -50, 980)
+    - The unpack_from method reads binary data
+    - The actual accelerometer readings start at Byte 10.
     '''
-    # Reads raw, binary ACC signals, which start at byte 10
     x_ref, y_ref, z_ref = struct.unpack_from('<hhh', raw_acc_signals, 10)
     decoded_signals = [(x_ref, y_ref, z_ref)]
     
@@ -69,7 +68,7 @@ def decode_polar_acc(raw_acc_signals):
     
     for _ in range(sample_count):
         deltas = []
-        for _ in range(3): # X, Y, Z
+        for _ in range(3):
             val = 0
             bits_read = 0
             while bits_read < delta_bits:
@@ -93,12 +92,11 @@ def decode_polar_acc(raw_acc_signals):
             current_y += deltas[1]
             current_z += deltas[2]
             decoded_signals.append((current_x, current_y, current_z))
-            
+
     return decoded_signals
 
 
 # --- CALLBACKS ---
-
 def accel_callback(data):
     # data: ('ACC', timestamp, bytearray)
     if len(data) < 3: return
@@ -119,8 +117,6 @@ def ppg_callback(data):
     if ppg_signals:
         save_to_csv(timestamp, data_type, ppg_signals)
 
-
-# --- MAIN ASYNC LOOP ---
 
 # Handle OS differences regarding the keyboard
 if sys.platform=="win32":
@@ -153,7 +149,6 @@ async def run_ble_client(device):
     Args:
         device: The Polar Verity Sense device
     """
-
     quitclient = asyncio.Event() # Flag for quitting the program, initially set to False
 
     # Stops the program when 'Enter' is pressed
@@ -185,7 +180,7 @@ async def run_ble_client(device):
             else:
                 print(f"Unknown data type: {data[0]}")
 
-        pmd = PolarMeasurementData(client, callback=master_callback) # Object for data streaming and stoping
+        pmd = PolarMeasurementData(client, callback=master_callback) # Object for data streaming and stopping
         
         await pmd.start_streaming('SDK')
         print("Starting Streams...")

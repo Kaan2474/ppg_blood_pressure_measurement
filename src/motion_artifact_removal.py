@@ -1,24 +1,26 @@
-from scipy.signal import butter, filtfilt, correlate
 import numpy as np
+from scipy.signal import butter, filtfilt, correlate
 
-def butterworth_lowpass_filter(sampling_frequency, cutoff, order, ppg_signals):
+
+def butterworth_lowpass_filter(ppg_signals, sampling_frequency):
     """
     Applies a Butterworth lowpass filter:
         - All frequencies above the cutoff are removed
         - All frequencies below the cutoff are kept
 
     Args:
-        sampling_frequency: The sampling frequency of the data records (125 Hz for MIMIC data)
-        cutoff: The specified cutoff frequency
-        order: The order of the Butterworth low-pass filter
         ppg_signals: The PPG signals that need to be filtered
+        sampling_frequency: The sampling frequency of the data records
 
     Returns:
         lowpass_filtered_ppg_signals: The filtered PPG signals
     """
+    order = 4
+    cutoff = 12
     nyquist = 0.5 * sampling_frequency
     cutoff_frequency = cutoff / nyquist
     
+
     b, a = butter(order, cutoff_frequency, btype='lowpass', analog=False)
     
     lowpass_filtered_ppg_signals = filtfilt(b, a, ppg_signals) # Ensures that PPG and ABP signals stay aligned
@@ -27,15 +29,16 @@ def butterworth_lowpass_filter(sampling_frequency, cutoff, order, ppg_signals):
     
 def sqa_autocorrelation(ppg_window, sampling_frequency):
     """
-    Implements the Autocorrelation-based SQA method based on Leitner et al. (2022)
+    Implements an autocorrelation-based SQA method based on Leitner et al. (2022)
       
     Args:
-        ppg_window: 5-second PPG segment
-        sampling_frequency: Sampling frequency of the PPG signals
+        ppg_window: A 5-second PPG segment
+        sampling_frequency: The sampling frequency of the PPG signals
     
     Returns:
-        True if valid (Max Autocorrelation >= 0.7), False otherwise.
+        True if PPG window has high quality (Max Autocorrelation >= 0.7), False otherwise.
     """
+
     # 1. Normalize the window for standardization
     normalized_window = ppg_window - np.mean(ppg_window)
     
@@ -52,7 +55,7 @@ def sqa_autocorrelation(ppg_window, sampling_frequency):
     min_lag = int(sampling_frequency * 60 / 220) # (220 BPM) = 125 * (60/220) ~= 34 samples
     max_lag = int(sampling_frequency * 60 / 30) # (30 BPM)  = 125 * (60/30) = 250 samples
     
-    # Safety check: ensure window is long enough
+    # Safety check: Ensures that PPG window is long enough
     if len(corr_norm) < max_lag:
         max_lag = len(corr_norm)
         
@@ -63,7 +66,7 @@ def sqa_autocorrelation(ppg_window, sampling_frequency):
 
     max_autocorr = np.max(valid_region)
     
-    # 5. Threshold Check (Leitner et al. used 0.7)
+    # 5. Threshold Check: Leitner et al. (2022) used 0.7 as a value for the maximum autocorrelation peak
     if max_autocorr >= 0.7:
         return True # Clean Signal
     else:
