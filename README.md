@@ -47,7 +47,7 @@ SD of DBP | 3.27 mmHg | 4.60 mmHg
 
 Possible reasons for the high error rate of the prototype:
 - **Insufficient data**: Only data record 041 was used to train the ANN model
-- **Inappropriate database**: MIMIC data was recorded at the fingertip from intensive care unit patients in static positions, whereas Polar Verity Sense data was collected from the upper arm while walking
+- **Inappropriate database**: MIMIC data was recorded at the fingertip from intensive care unit patients in static positions, whereas Polar Verity Sense data was collected from the upper arm while walking under normal conditions
 
 ## Installation & Usage
 
@@ -62,24 +62,26 @@ pip install numpy pandas scipy scikit-learn matplotlib bleak "bleakheart" joblib
 ```
 
 **Quick Start**
-1. **Load Data**: Download data records from the MIMIC database
-2. **Store Data**: Store the data records in a separate folder within the Blood Pressure Measurement folder
+1. **Load Data**: Download data records from the MIMIC database (see References)
+2. **Store Data**: Store the data records in separate folders within the project folder
+    - Example for data record 041: folder_1/folder_2/041 -> data/041/041
+    - Note: The specific data record ID at the end of the path is crucial
 3. **Data Path**: Add the directory path that leads to the MIMIC data within src/main.py (line 9)
 4. **Model Training**: Run src/main.py to train the ANN model or skip this step and use the already existing models/ann_bp_model.pkl
    - Note: Step 4 shouldn't be skipped because the prototype was only trained on data record 041
-   - Download as many data records as possible from the MIMIC database
-6. **Data Collection**: Run src/signal_acquisition.py while wearing the turned on Polar Verity Sense on the arm to record PPG/ACC data to a CSV
-7. **Signal Alignment**: Run src/aligning_signals.py to synchronize PPG and ACC signals
-8. **Blood Pressure Estimation**: Run src/measure_bp.py to predict SBP and DBP from the collected PPG signals
-9. **Reference Values**: Measure reference blood pressure values with a cuff and add these values within src/bp_evaluation.py (line 41 and 42)
-10. **Evaluation**: Run src/bp_evaluation.py to compare your blood pressure predictions against the reference values
+   - Recommendation: Download as many data records as possible from the MIMIC database
+5. **Data Collection**: Run src/signal_acquisition.py while wearing the turned on Polar Verity Sense on the arm to record PPG/ACC data to a CSV file and press 'Enter' to stop the data stream
+6. **Signal Alignment**: Run src/aligning_signals.py to synchronize PPG and ACC signals
+7. **Blood Pressure Estimation**: Run src/measure_bp.py to predict SBP and DBP from the collected PPG signals
+8. **Reference Values**: Measure reference blood pressure values with a cuff and add these values within src/bp_evaluation.py (line 41 and 42)
+9. **Evaluation**: Run src/bp_evaluation.py to compare your blood pressure predictions against the reference values
 
 ## Future Work
 - **Database Expansion**: Incorporating all data records from the MIMIC database to improve generalization and reduce overfitting
-- **Selection of the database**: Testing an alternative database capturing upper-arm data during movement-intensive scenarios
+- **Selection of the database**: Testing an alternative database for model training that captured upper-arm data during movement-intensive scenarios
 - **Motion artifact removal**:
-  - Using the acquired ACC signals to further reduce the impact of motion-induced noise
-  - Identifying and applying more methods for motion artifact removal to improve measurement accuracy
+  - Using the acquired ACC signals to further reduce the impact of motion-induced noise by applying adaptive filtering techniques
+  - Identifying and implementing more methods for motion artifact removal to improve measurement accuracy
 - **Sensor Diversity**: Testing the prototype with other wearable sensors beyond the Polar Verity Sense 
 
 ## References
